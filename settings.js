@@ -2,7 +2,8 @@
 let clientId        = '';
 let clientSecret    = '';
 let tenant          = '';
-let redirectUri     = 'http://localhost:8080/callback';
+let redirectUri     = 'https://mum-ux-experiences-dev-ptjd.1.us-1.fl0.io';
+
 
 
 
