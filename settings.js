@@ -2,7 +2,7 @@
 let clientId        = '';
 let clientSecret    = '';
 let tenant          = '';
-let redirectUri     = 'https://mum-ux-experiences-dev-ptjd.1.us-1.fl0.io';
+let redirectUri     = 'https://mum-ux-experiences-dev-ptjd.1.us-1.fl0.io/callback';
 
 
 
